@@ -1,0 +1,5 @@
+---
+float64 voxel_size
+uint32 voxels_per_side
+
+sensor_msgs/PointCloud2 map_cloud
