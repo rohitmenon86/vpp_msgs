@@ -1,0 +1,4 @@
+uint16 instance_id
+uint16 num_points
+sensor_msgs/PointCloud2 pointcloud
+geometry_msgs/Point centroid
