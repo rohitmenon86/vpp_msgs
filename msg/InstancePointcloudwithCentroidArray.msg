@@ -1,0 +1,1 @@
+vpp_msgs/InstancePointcloudwithCentroid[] instance_clouds_with_centroid

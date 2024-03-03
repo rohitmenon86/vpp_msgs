@@ -1,0 +1,5 @@
+bool get_specific_instances
+uint16[] instance_ids
+---
+sensor_msgs/PointCloud2 integrated_cloud
+vpp_msgs/InstancePointcloudwithCentroid[] instance_clouds_with_centroid
